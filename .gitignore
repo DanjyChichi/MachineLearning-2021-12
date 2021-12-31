@@ -3,6 +3,8 @@ exercise1.ipynb
 .vscode
 creditcard.csv
 2-01.단순선형회귀.ipynb
+test.csv
+train.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
