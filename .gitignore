@@ -7,6 +7,9 @@ test.csv
 train.csv
 labeledTrainData.tsv
 model/
+scores.pkl
+noun_scores.pkl
+OpinosisDataset1.0/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
